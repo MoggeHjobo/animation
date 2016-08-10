@@ -33,7 +33,7 @@ function draw()
 		x+=width;
 		pixlar+=f;
 		//Longer intervalls
-				if(pixlar >= 160 || pixlar <= 2)
+				if(pixlar >= 100 || pixlar <= 2)
 							f*=-1;
 	}
 }
