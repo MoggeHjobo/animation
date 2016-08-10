@@ -1,3 +1,5 @@
 En förklarande text till mitt projekt
 Här lägger jag till ytterligare några rader, eftersom  jag
 vill lära mig att uppdatera min repository animationer
+
+Det finns ingen aneldning till oro
